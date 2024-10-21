@@ -223,7 +223,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           backgroundColor: Color(0xff1A2344),
                         ),
                         child: Text(
-                          "Next 7 Days Forecast",
+                          "Next 3 Days Forecast",
                           style: TextStyle(color: Colors.white),
                         )),
                   ),

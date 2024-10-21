@@ -88,7 +88,7 @@ class _ForecastScreenState extends State<ForecastScreen> {
                               width: 15,
                             ),
                             Text(
-                              "7 Day Forecast",
+                              "3 Day Forecast",
                               style: GoogleFonts.lato(
                                   fontSize: 30,
                                   color: Colors.white,
