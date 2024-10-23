@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+Day 3/30.
 
 ## Getting Started
 
